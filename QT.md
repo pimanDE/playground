@@ -37,8 +37,37 @@ git clone https://github.com/user/script.sh | bash
 > git clone https://github.com/user/script.sh | bash
 
 <br>
-<u><b>Fettdruck, Unterstrichen und Kursiv</b></u>
+<u><b>Fettdruck, Unterstrichen, Kursiv und Durchgestrichen</b></u>
 
 ```html
-<b> </b>	<u> </u>	<i> </i>
+<b> </b>	<u> </u>	<i> </i>	<del> </del>
 ```
+oder
+
+mit zwei Sternchen und einem Leerzeichen `**`** fett **`**`
+mit einem Sternchen und einem Leerzeichen `**`* unterstrichen *`**`
+mit einem Sternchen und einem Leerzeichen `**`* kursiv *`**`
+mit zwei Tilden `~~`<del>durchgestrichen</del>`~~`
+
+<br>
+<u><b>Aufzählungen</b></u>
+
+- Minus
+* Sternchen
+1. 1 und Punkt (Erstens)
+	- Tab mit Minus
+	* Tab mit Sternchen
+	1. Tab mit 1 und Punkt (Erstens)
+
+<br>
+<u><b>Links</b></u>
+
+[Hier gehts zu github.com](http://github.com)
+
+<br>
+<u><b>Bilder einfügen</b></u>
+
+![alt text](http://picsum.photos/200/200)
+
+<br>
+<u><b>Coming coon</b></u>
