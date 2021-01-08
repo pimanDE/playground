@@ -40,14 +40,15 @@ git clone https://github.com/user/script.sh | bash
 <u><b>Fettdruck, Unterstrichen, Kursiv und Durchgestrichen</b></u>
 
 ```html
-<b> </b>	<u> </u>	<i> </i>	<del> </del>
+<b> </b>	<i> </i>	<u> </u>	<del> </del>
 ```
 oder
 
-mit zwei Sternchen und einem Leerzeichen ` **` ** fett ** ` **`  
-mit einem Sternchen und einem Leerzeichen `*` * unterstrichen ** `*`  
-mit einem Sternchen und einem Leerzeichen `**` * kursiv *`**`  
-mit zwei Tilden `~~`<del>durchgestrichen</del>`~~`
+mit zwei Sternchen `**`**fett**`**`  
+mit einem Sternchen `*`*kursiv*`*`  
+mit `` ``  
+mit  `` ``  
+
 
 <br>
 <u><b>Aufzählungen</b></u>
@@ -71,3 +72,5 @@ mit zwei Tilden `~~`<del>durchgestrichen</del>`~~`
 
 <br>
 <u><b>Coming coon</b></u>
+
+
