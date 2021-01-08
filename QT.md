@@ -51,7 +51,8 @@ oder
 mit zwei Sternchen `**`**fett**`**`  
 mit einem Sternchen `*`*kursiv*`*`  
 mit drei Sternchen `***`***fett und kursiv*** `***`  
-~~durchgestrichen~~
+mit einem Unterstrich `_`_unterstrichen_`_`  
+mit zwei Tilden `~~`~~durchgestrichen~~`~~`
 
 <br>
 <u><b>Aufzählungen</b></u>
