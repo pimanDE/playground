@@ -1,3 +1,3 @@
-# Playground
+# Playground.
 
 Just to play.
