@@ -1,4 +1,4 @@
-# Quick Tipps zu Markup Language (md)
+# Quick Tipps zu Markup Language
 
 ## Überschriften
 
