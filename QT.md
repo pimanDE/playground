@@ -1,25 +1,38 @@
-# Quick Tipps zu Markdown Language
+# Quick Tipps zu Markdown
 
-## Überschriften
+## Überschrift 1
 
-### Überschriften
+### Überschrift 2
 
-Code  
-<code>wget https://github.com ...</code>
-
-Hochkomma  
-`wget https://github.com ...`
-
-Aufzählungspunkte
-
-* Punkt 1
-* Punkt 2
-* Punkt 3
-
-
-Zeilenschaltung mit  
-`<br>`
-
-Tabelle  
+<br>
+<u><b>Tabelle</b></u>
+| Spalte 1 | Spalte 2 | Spalte 3 |
 | --- | --- | --- |
+| Zeile 1 | Zeile 1 | Spalte 1 |
+| Zeile 2 | Zeile 2 | Spalte 2 |
+| Zeile 3 | Zeile 3 | Spalte 3 |
+| Zeile 4 | Zeile 4 | Spalte 4 |
 
+<br>
+<u><b>Code</b></u>
+<code>git clone https://github.com/user/script.sh | bash</code>
+
+<br>
+<u><b>1 Hochkomma</b></u>
+`git clone https://github.com/user/script.sh | bash`
+
+<br>
+<u><b>3 Hochkommata</b></u>
+```
+git clone https://github.com/user/script.sh | bash
+```
+
+<br>
+<u><b>Blockquote</b></u>
+> git clone https://github.com/user/script.sh | bash
+
+<br>
+<u><b>Fettdruck, Unterstrichen und Kursiv</b></u>
+```html
+<b> </b>	<u> </u>	<i> </i>
+```
