@@ -44,8 +44,8 @@ git clone https://github.com/user/script.sh | bash
 ```
 oder
 
-mit zwei Sternchen und einem Leerzeichen `**`** fett **`**`
-mit einem Sternchen und einem Leerzeichen `**`* unterstrichen *`**`
+mit zwei Sternchen und einem Leerzeichen `**`** fett ** `**`  
+mit einem Sternchen und einem Leerzeichen `**`* unterstrichen *`**`  
 mit einem Sternchen und einem Leerzeichen `**`* kursiv *`**`
 mit zwei Tilden `~~`<del>durchgestrichen</del>`~~`
 
