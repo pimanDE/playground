@@ -80,7 +80,9 @@ mit zwei Tilden \~\~ ~~durchgestrichen~~ \~\~
 
 <br>
 <u><b>Checkboxen</b></u><br>
+
 - [ ] Klick in das Kästchen
+
 
 <br>
 <u><b>Coming coon</b></u>
