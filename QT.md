@@ -19,6 +19,10 @@
 
 <code>git clone https://github.com/user/script.sh | bash</code>
 
+oder auch mit einem TAB vorangestellt
+	
+	git clone https://github.com/user/script.sh | bash
+
 <br>
 <u><b>1 Hochkomma</b></u>
 
@@ -73,6 +77,10 @@ mit zwei Tilden `~~`~~durchgestrichen~~`~~`
 <u><b>Bilder einfügen</b></u>
 
 ![alt text](http://picsum.photos/200/200)
+
+<br>
+<u><b>Checkboxen</b></u>
+- [ ] Klick in das Kästchen 
 
 <br>
 <u><b>Coming coon</b></u>
