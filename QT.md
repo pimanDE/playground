@@ -52,11 +52,11 @@ git clone https://github.com/user/script.sh | bash
 ```
 oder
 
-mit zwei Sternchen `**`**fett**`**`  
-mit einem Sternchen `*`*kursiv*`*`  
-mit drei Sternchen `***`***fett und kursiv*** `***`  
-mit einem Unterstrich `_`_unterstrichen_`_`  
-mit zwei Tilden `~~`~~durchgestrichen~~`~~`
+mit zwei Sternchen \*\***fett**\*\*  
+mit einem Sternchen \**kursiv*\*  
+mit drei Sternchen \*\*\****fett und kursiv***\***  
+mit einem Unterstrich \__unterstrichen_\_  
+mit zwei Tilden \~\~ ~~durchgestrichen~~ \~\~
 
 <br>
 <u><b>Aufzählungen</b></u>
@@ -79,8 +79,8 @@ mit zwei Tilden `~~`~~durchgestrichen~~`~~`
 ![alt text](http://picsum.photos/200/200)
 
 <br>
-<u><b>Checkboxen</b></u>
-- [ ] Klick in das Kästchen 
+<u><b>Checkboxen</b></u><br>
+- [ ] Klick in das Kästchen
 
 <br>
 <u><b>Coming coon</b></u>
