@@ -82,6 +82,7 @@ mit zwei Tilden \~\~ ~~durchgestrichen~~ \~\~
 <u><b>Checkboxen</b></u><br>
 
 - [X] angeklickt
+
 - [] nicht angeklickt
 
 
