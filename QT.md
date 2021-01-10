@@ -83,7 +83,8 @@ mit zwei Tilden \~\~ ~~durchgestrichen~~ \~\~
 
 - [X] angeklickt
 
-- [] nicht angeklickt
+- [ ] nicht angeklickt
+
 
 
 <br>
