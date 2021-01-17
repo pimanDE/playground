@@ -55,7 +55,7 @@ oder
 mit zwei Sternchen \*\***fett**\*\*  
 mit einem Sternchen \**kursiv*\*  
 mit drei Sternchen \*\*\****fett und kursiv***\***  
-mit einem Unterstrich \__unterstrichen_\_  
+mit einem Unterstrich \__noch nicht unterstrichen_\_  
 mit zwei Tilden \~\~ ~~durchgestrichen~~ \~\~
 
 <br>
