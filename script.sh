@@ -53,6 +53,6 @@ echo
 
 
 
-sudo rpl 'aa' 'bb' ~/Scripte/datei.txt
+sudo rpl -q 'aa' 'bb' ~/Scripte/datei.txt
 
 exit
