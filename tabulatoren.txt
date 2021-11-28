@@ -4,4 +4,7 @@ Ein Tabulator	# 1
 Ein Tabulator 1	# 1
 
 Zwei Tabulatoren		# 2
-Zwei Tabulatoren12345	# 2
+Zwei Tabulatoren1		# 2
+Zwei Tabulatoren12		# 2
+Zwei Tabulatoren123		# 2
+Zwei Tabulatoren1234	# 2
