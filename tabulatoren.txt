@@ -1,0 +1,7 @@
+Tabulatoren (1 Tab = 4 Leerzeichen)
+
+Ein Tabulator	# 1
+Ein Tabulator 1	# 1
+
+Zwei Tabulatoren		# 2
+Zwei Tabulatoren12345	# 2
